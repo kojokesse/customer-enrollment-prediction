@@ -4,7 +4,9 @@
 ```markdown
 # Cart Abandonment Prediction
 
-This project uses a machine learning model to predict whether a customer should be enrolled or not based on various features such as age, income, price, satisfaction rating, and more.
+This project uses a machine learning model to predict whether a customer should be enrolled or not based on various
+features such as age, income, price,
+satisfaction rating, and more.
 
 ## Getting Started
 
